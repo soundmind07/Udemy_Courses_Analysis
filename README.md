@@ -1,7 +1,7 @@
 # Udemy_Courses_Analysis
 
 This dataset contains all the data for courses for all subjects
-we have analysed this data set using python library and drawn some insights.
+we have analysed this data set using python library and drawn some insight.
 
 
 Insights drawn:-
